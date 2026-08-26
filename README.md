@@ -6,3 +6,6 @@
 
 ## Expression Parsing
 - [275A. Lights Out](https://codeforces.com/contest/275/problem/A)
+
+## Implementation
+- [59A. Word](https://codeforces.com/contest/59/problem/A)
