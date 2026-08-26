@@ -9,7 +9,6 @@ bool func(long long nums){
         int x=nums%10;
         if(x==4) four++;
         else if(x==7) sev++;
-        else return false;
         count++;
         nums/=10;
     }
