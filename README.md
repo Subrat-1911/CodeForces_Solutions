@@ -9,3 +9,4 @@
 
 ## Implementation
 - [59A. Word](https://codeforces.com/contest/59/problem/A)
+- [281A. Word Capitalization](https://codeforces.com/contest/281/problem/A)
