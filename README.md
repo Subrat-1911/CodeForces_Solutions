@@ -3,7 +3,7 @@
 ## Brute Force
 - [4A. Watermelon](https://codeforces.com/contest/4/problem/A)
 - [32B. Borze](https://codeforces.com/contest/32/problem/B)
-
+- [61A. Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A)
 ## Expression Parsing
 - [275A. Lights Out](https://codeforces.com/contest/275/problem/A)
 
