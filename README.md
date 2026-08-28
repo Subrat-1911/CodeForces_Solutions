@@ -9,6 +9,7 @@
 
 ## Implementation
 - [59A. Word](https://codeforces.com/contest/59/problem/A)
+- [80A. Panoramix's Prediction](https://codeforces.com/contest/80/problem/A)
 - [110A. Nearly Lucky Number](https://codeforces.com/contest/110/problem/A)
 - [266A. Stones on the Table](https://codeforces.com/contest/266/problem/A)
 - [281A. Word Capitalization](https://codeforces.com/contest/281/problem/A)
