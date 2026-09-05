@@ -14,3 +14,6 @@
 - [266A. Stones on the Table](https://codeforces.com/contest/266/problem/A)
 - [281A. Word Capitalization](https://codeforces.com/contest/281/problem/A)
 - [1829B. Blank Space](https://codeforces.com/contest/1829/problem/B)
+
+## General
+- [2259A. Moo Language School](https://codeforces.com/contest/2259/problem/A)
