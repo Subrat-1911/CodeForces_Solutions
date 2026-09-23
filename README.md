@@ -19,6 +19,7 @@
 - [69A. Young Physicist](https://codeforces.com/contest/69/problem/A)
 - [71A. Way Too Long Words](https://codeforces.com/contest/71/problem/A)
 - [158A. Next Round](https://codeforces.com/contest/158/problem/A)
+- [160A. Twins](https://codeforces.com/contest/160/problem/A)
 - [231A. Team](https://codeforces.com/contest/231/problem/A)
 - [263A. Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 - [266B. Queue at the School](https://codeforces.com/contest/266/problem/B)
