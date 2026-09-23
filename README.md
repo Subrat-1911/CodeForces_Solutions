@@ -18,6 +18,7 @@
 ## General
 - [69A. Young Physicist](https://codeforces.com/contest/69/problem/A)
 - [71A. Way Too Long Words](https://codeforces.com/contest/71/problem/A)
+- [231A. Team](https://codeforces.com/contest/231/problem/A)
 - [263A. Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 - [266B. Queue at the School](https://codeforces.com/contest/266/problem/B)
 - [1472A. Cards for Friends](https://codeforces.com/contest/1472/problem/A)
