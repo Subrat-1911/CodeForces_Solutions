@@ -1,26 +1,21 @@
-#include <iostream>
-
+#include<iostream>
 using namespace std;
-
-void solveWatermelon() {
-    int weight;
-    if (cin >> weight) {
-        // Bitwise AND use kiya hai even check karne ke liye
-        // aur weight 2 se bada hona chahiye
-        if (weight > 2 && (weight & 1) == 0) {
-            cout << "YES\n";
-        } else {
-            cout << "NO\n";
+int main(){
+    int n;
+    cin>>n;
+    int x=n-1;
+    int y=1;
+    bool flag=false;
+    while(y<=n/2){
+        if(x%2==0 && y%2==0){
+            if(x+y==n){
+                flag=true;
+                break;
+            }
         }
+        x--;
+        y++;
     }
-}
-
-int main() {
-    // Fast I/O taaki execution time alag aaye
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    
-    solveWatermelon();
-    
-    return 0;
+    if(flag==true) cout<<"YES";
+    else cout<<"NO";
 }
