@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// Test sync run 2
 int main() {
     int n, t;
     cin >> n >> t;
