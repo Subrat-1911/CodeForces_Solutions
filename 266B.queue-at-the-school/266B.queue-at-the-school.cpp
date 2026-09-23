@@ -1,29 +1,29 @@
 #include <iostream>
 #include <string>
-#include <algorithm>
 
 using namespace std;
 
-// Test sync run 2
 int main() {
-    int n, t;
-    cin >> n >> t;
+    int totalKids, timeSec;
+    if (!(cin >> totalKids >> timeSec)) return 0;
 
-    string s;
-    cin >> s;
+    string queueOrder;
+    cin >> queueOrder;
 
-    while (t--) {
-        for (int i = 0; i < n - 1; ) {
-            if (s[i] == 'B' && s[i + 1] == 'G') {
-                swap(s[i], s[i + 1]);
-                i += 2;
+    for (int step = 0; step < timeSec; ++step) {
+        int idx = 0;
+        while (idx < totalKids - 1) {
+            if (queueOrder[idx] == 'B' && queueOrder[idx + 1] == 'G') {
+                char temp = queueOrder[idx];
+                queueOrder[idx] = queueOrder[idx + 1];
+                queueOrder[idx + 1] = temp;
+                idx += 2;
             } else {
-                i++;
+                idx++;
             }
         }
     }
 
-    cout << s << endl;
-
+    cout << queueOrder << "\n";
     return 0;
 }
