@@ -16,4 +16,5 @@
 - [1829B. Blank Space](https://codeforces.com/contest/1829/problem/B)
 
 ## General
+- [1472A. Cards for Friends](https://codeforces.com/contest/1472/problem/A)
 - [2259A. Moo Language School](https://codeforces.com/contest/2259/problem/A)
