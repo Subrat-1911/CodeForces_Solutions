@@ -22,6 +22,7 @@
 - [231A. Team](https://codeforces.com/contest/231/problem/A)
 - [263A. Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 - [266B. Queue at the School](https://codeforces.com/contest/266/problem/B)
+- [339A. Helpful Maths](https://codeforces.com/contest/339/problem/A)
 - [1472A. Cards for Friends](https://codeforces.com/contest/1472/problem/A)
 - [2259A. Moo Language School](https://codeforces.com/contest/2259/problem/A)
 - [2266A. Good Contest](https://codeforces.com/contest/2266/problem/A)
