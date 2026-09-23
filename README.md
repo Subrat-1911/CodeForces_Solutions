@@ -17,5 +17,6 @@
 
 ## General
 - [69A. Young Physicist](https://codeforces.com/contest/69/problem/A)
+- [263A. Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 - [1472A. Cards for Friends](https://codeforces.com/contest/1472/problem/A)
 - [2259A. Moo Language School](https://codeforces.com/contest/2259/problem/A)
